@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1622","Retornar a página home","chromium","2026-02-21","passed","2026-02-21","","app.spec.ts","",""
+"","1327","Excluir um item","chromium","2026-02-21","passed","2026-02-21","","app.spec.ts","",""
+"","1286","Preencher os campos nome e caloria corretamente","chromium","2026-02-21","passed","2026-02-21","","app.spec.ts","",""
+"","1100","Editar uma categoria","chromium","2026-02-21","passed","2026-02-21","","app.spec.ts","",""
+"","1138","Preencher os campos nome e caloria incorretamente","chromium","2026-02-21","passed","2026-02-21","","app.spec.ts","",""
